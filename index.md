@@ -30,13 +30,13 @@ Looking to develop my profesional carreer as a Game Developer.
 
 
 #### Formation
-[Escuela de Arte Multimedial Da Vinci]() | Virtual Simulation Designer (Game Development)
-March 2019 - Present(December 2022 Expected)
+[Escuela de Arte Multimedial Da Vinci]() | Virtual Simulation Designer (Game Development) <br>
+March 2019 - Present(December 2022 Expected) <br>
 ***Thesis project is already finished***
 
-[CUI - Centro Universitario de Idiomas](https://cui.edu.ar)
-Currently Studing Formal English.
-March 2022 (Level 14) - Present (Level 15)
+[CUI - Centro Universitario de Idiomas](https://cui.edu.ar) | English
+Currently Studing Formal English. <br>
+March 2022 (Level 14) - Present (Level 15) <br>
 C1 [CEFR](https://en.wikipedia.org/wiki/Common_European_Framework_of_Reference_for_Languages) (Advanced)
 ***Started at Level 14 due to previous experience with the English Language***
 
